@@ -3,7 +3,7 @@
 	padding: 5px;
 	border-radius: 5px;
 	box-shadow: 5px 5px black;
-	width:min-content;
+	width:max-content;
 	height: auto;
 	background-color: yellowgreen;
 	color: black;
@@ -15,7 +15,7 @@
 	padding: 5px;
 	border-radius: 5px;
 	box-shadow: 5px 5px black;
-	width:min-content;
+	width:max-content;
 	height: auto;
 	background: white;
 	color: black;
