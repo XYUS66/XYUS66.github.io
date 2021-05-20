@@ -8,6 +8,7 @@ alert (xmlDoc)
   fondo.className="fondo"
 	for(let i=0; i<dcha.length; i++){
 		capaVacia.innerHTML = capaVacia.innerHTML + "<p>" + dcha[i].textContent + "</p>"
+		capaVacia.innerHTML = capaVacia.innerHTML + "<p>" + izda[i].textContent + "</p>"
   }
 }
 loadDocA("chat.xml","xml")
