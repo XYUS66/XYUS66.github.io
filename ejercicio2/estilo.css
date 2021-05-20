@@ -8,8 +8,6 @@
 	height: auto;
 	background-color: yellowgreen;
 	color: black;
-	display: flex;
-	justify-content: right;
 }
 .izquierda
 {
@@ -21,6 +19,4 @@
 	height: auto;
 	background: white;
 	color: black;
-	display: flex;
-	justify-content: left;
 }
