@@ -4,9 +4,9 @@ alert (xmlDoc)
 	let capaVacia = document.querySelector("#ficheroXML")
   let dcha = xmlDoc.querySelectorAll("derecha")
 	let izda = xmlDoc.querySelectorAll("izquierda")
-  let fondo = xmlDoc.querySelectorAll("chat")
+  let fondo = xmlDoc.querySelector("chat")
 	for(let i=0; i<dcha.length&&izda.length; i++){
-		fondo.className="fondo"
+		capaVacia.innerHTML = capaVacia.innerHTML + "<div class='fondo'>" + "</div>"
 		capaVacia.innerHTML = capaVacia.innerHTML + "<p class='derecha'>" + dcha[i].textContent + "</p>"
 		capaVacia.innerHTML = capaVacia.innerHTML + "<p class='izquierda'>" + izda[i].textContent + "</p>"
   }
