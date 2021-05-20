@@ -3,19 +3,16 @@
 	padding: 5px;
 	border-radius: 5px;
 	box-shadow: 5px 5px black;
-	width:max-content;
 	height: auto;
 	background-color: yellowgreen;
 	color: black;
-	display: flex;
-	flex-direction: row-reverse;
+	text-align: end;
 }
 .izquierda
 {
 	padding: 5px;
 	border-radius: 5px;
 	box-shadow: 5px 5px black;
-	width:max-content;
 	height: auto;
 	background: white;
 	color: black;
