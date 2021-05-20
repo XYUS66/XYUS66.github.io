@@ -8,9 +8,11 @@
 }
 .derecha
 {
+	color: green;
 	align-items: flex-end;
 }
 .izquierda
 {
+	color: red;
 	align-items: flex-start;
 }
