@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ISO-8859-15"?> 
+<chat>
+    <derecha>Hola</derecha>
+    <izquierda>Hola, buenos días</izquierda>
+    <derecha>Cómo te ha ido la tarde?</derecha>
+    <izquierda>Bueno, aquí, aburrido en casa</izquierda>
+    <derecha>Te apetece que esta tarde quedemos un rato?</derecha>
+    <izquierda>Claro, estaría genial</izquierda>
+    <derecha>Hecho, pues si quieres quedamos en tu casa en media hora</derecha>
+    <izquierda>ok, te espero</izquierda>
+</chat>
