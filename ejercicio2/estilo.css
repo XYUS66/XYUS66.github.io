@@ -8,12 +8,20 @@
 }
 .derecha
 {
+	border-radius: 5px;
+	box-shadow: 5px 5px black;
+	width: auto;
+	width: auto;
 	background-color: yellowgreen;
 	justify-content: right;
 	color: black;
 }
 .izquierda
 {
+	border-radius: 5px;
+	box-shadow: 5px 5px black;
+	width: auto;
+	width: auto;
 	background: white;
 	color: black;
 	justify-content: left;
