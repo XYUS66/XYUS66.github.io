@@ -14,7 +14,7 @@
 	height: auto;
 	background-color: yellowgreen;
 	color: black;
-	display: inline-flex;
+	display: flex;
 	justify-content: flex-end;
 }
 .izquierda
@@ -27,6 +27,6 @@
 	height: auto;
 	background: white;
 	color: black;
-	display: inline-flex;
+	display: flex;
 	justify-content: flex-start;
 }
