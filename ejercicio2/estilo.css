@@ -8,9 +8,13 @@
 }
 .derecha
 {
+	background-color: yellowgreen;
 	justify-content: right;
+	color: black;
 }
 .izquierda
 {
+	background: white;
+	color: black;
 	justify-content: left;
 }
