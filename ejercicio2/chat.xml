@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="ISO-8859-15"?> 
 <chat>
-    <derecha>Hola</derecha>
-    <izquierda>Hola, buenos dias</izquierda>
-    <derecha>Como te ha ido la tarde?</derecha>
-    <izquierda>Bueno, aqui, aburrido en casa</izquierda>
-    <derecha>Te apetece que esta tarde quedemos un rato?</derecha>
-    <izquierda>Claro, estaria genial</izquierda>
-    <derecha>Hecho, pues si quieres quedamos en tu casa en media hora</derecha>
-    <izquierda>Ok, te espero</izquierda>
+    <derecha><texto>Hola</texto></derecha>
+    <izquierda><texto>Hola, buenos dias</texto></izquierda>
+    <derecha><texto>Como te ha ido la tarde?</texto></derecha>
+    <izquierda><texto>Bueno, aqui, aburrido en casa</texto></izquierda>
+    <derecha><texto>Te apetece que esta tarde quedemos un rato?</texto></derecha>
+    <izquierda><texto>Claro, estaria genial</texto></izquierda>
+    <derecha><texto>Hecho, pues si quieres quedamos en tu casa en media hora</texto></derecha>
+    <izquierda><texto>Ok, te espero</texto></izquierda>
 </chat>
