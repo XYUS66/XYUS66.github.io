@@ -4,22 +4,24 @@
 	padding: 5px;
 	border-radius: 5px;
 	box-shadow: 5px 5px black;
-	width: max-content;
+	width:min-content;
 	height: auto;
 	background-color: yellowgreen;
 	color: black;
 	display: flex;
-	flex-direction: row;
+	justify-content: flex-end;
 }
 .izquierda
 {
+	align-items: ;
 	position: relative;
 	padding: 5px;
 	border-radius: 5px;
 	box-shadow: 5px 5px black;
-	width: max-content;
+	width:min-content;
 	height: auto;
 	background: white;
 	color: black;
-	
+	display: flex;
+	justify-content: flex-start;
 }
