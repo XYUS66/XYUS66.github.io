@@ -2,11 +2,8 @@
 {
 	background-image: url(fondo.jpg);
 	background-repeat: no-repeat;
-	backgroun-color: blue;
 	max-width: 100vw;
 	min-height: 100vh;
-	display: flex;
-
 }
 .derecha
 {
@@ -16,7 +13,8 @@
 	width: auto;
 	height: auto;
 	background-color: yellowgreen;
-	justify-content: right;
+	display:flex;
+	flex-directio:row;
 	color: black;
 }
 .izquierda
@@ -29,5 +27,6 @@
 	height: auto;
 	background: white;
 	color: black;
+	flex-directio:row-reverse;
 	justify-content: left;
 }
