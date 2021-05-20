@@ -1,16 +1,1 @@
-.fondo
-{
-	background-image: url(fondo.jpg);
-	max-width: 100vw;
-	min-height: 100vh;
-	display: flex;
 
-}
-.derecha
-{
-	align-items: flex-end;
-}
-.izquierda
-{
-	align-items: flex-start;
-}
