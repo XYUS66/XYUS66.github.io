@@ -10,6 +10,7 @@
 }
 .derecha
 {
+	padding: 5px;
 	border-radius: 5px;
 	box-shadow: 5px 5px black;
 	width: auto;
@@ -20,6 +21,7 @@
 }
 .izquierda
 {
+	padding: 5px;
 	border-radius: 5px;
 	box-shadow: 5px 5px black;
 	width: auto;
