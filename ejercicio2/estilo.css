@@ -13,9 +13,9 @@
 	width: auto;
 	height: auto;
 	background-color: yellowgreen;
-	display:flex;
-	flex-directio:row;
 	color: black;
+	display: inline-flex;
+	justify-content: flex-end;
 }
 .izquierda
 {
@@ -27,6 +27,6 @@
 	height: auto;
 	background: white;
 	color: black;
-	flex-directio:row-reverse;
-	justify-content: left;
+	display: inline-flex;
+	justify-content: flex-start;
 }
