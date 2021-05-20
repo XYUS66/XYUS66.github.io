@@ -6,7 +6,11 @@ alert (xmlDoc)
 	let izda = xmlDoc.querySelectorAll("izquierda")
   let fondo = xmlDoc.querySelectorAll("chat")
   fondo.className="fondo"
-	for(let i=0; i<dcha.length; i++)
-		capaVacia.innerHTML = capaVacia.innerHTML + "<p>" + libros[i].textContent + "</p>"
+	for(let i=0; i<dcha.length; i++){
+		capaVacia.innerHTML = capaVacia.innerHTML + "<p>" + dcha[i].textContent + "</p>"
+  }
+  for(let i=0; i<izda.length; i++){
+		capaVacia.innerHTML = capaVacia.innerHTML + "<p>" + izda[i].textContent + "</p>"
+  }
 }
 loadDocA("chat.xml","xml")
