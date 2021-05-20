@@ -16,7 +16,7 @@
 	background-color: yellowgreen;
 	color: black;
 	display: flex;
-	justify-content: flex-end;
+	flex-direction: row;
 }
 .izquierda
 {
@@ -29,5 +29,5 @@
 	background: white;
 	color: black;
 	display: flex;
-	justify-content: flex-start;
+	flex-direction:row-reverse;
 }
