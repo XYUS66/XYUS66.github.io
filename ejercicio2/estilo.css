@@ -9,7 +9,6 @@
 .derecha
 {
 	background-color: yellowgreen;
-	position: relative;
 	justify-content: right;
 	color: black;
 }
@@ -17,6 +16,5 @@
 {
 	background: white;
 	color: black;
-	position: relative;
-	justify-content: right;
+	justify-content: left;
 }
